@@ -14,7 +14,8 @@
 # # Sidney= 21
 #
 # Cali = Sam = Sidney = 21
-#
+#Cali is smart
+
 # print(Sidney)
 # print(Sam)
 # print(Cali)
